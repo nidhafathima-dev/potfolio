@@ -560,7 +560,7 @@ portfolio_html = f"""
             <a href="mailto:nidhafathimaabcd@gmail.com?subject=Inquiry from Portfolio">Draft an Email</a>
             <a href="https://www.instagram.com/nxdhaaa_?igsh=MXdyOXM3bGhkcGYyNg==" target="_blank">Instagram</a>
         </div>
-        <p style="margin-top: 4rem; opacity: 0.3; font-size: 0.8rem;">© 2026 Nidha | Built with ❤️ and Streamlit</p>
+        <p style="margin-top: 4rem; opacity: 0.3; font-size: 0.8rem;">© 2026 Nidha</p>
     </footer>
 
     <script>
